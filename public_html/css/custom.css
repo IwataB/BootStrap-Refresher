@@ -1,0 +1,23 @@
+.container {
+    border-width: 5px;
+    border-style: solid;
+    border-color: blue;
+}
+
+.row {
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+}
+
+.col-xs-9 {
+    border-width: 5px;
+    border-style: solid;
+    border-color: green;
+}
+
+.col-xs-3 {
+    border-width: 5px;
+    border-style: solid;
+    border-color: green;
+}
